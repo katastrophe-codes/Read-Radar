@@ -22,6 +22,10 @@ datasets: These need to be accessed via this link https://mengtingwan.github.io/
 
 Read-Radar.pptx: PowerPoint presentation providing a user-friendly overview of the project journey.
 
+
+## Contributors
+Rida Khan (katastrophe-codes)
+
 ## License
 This project is licensed under the MIT License.
 
