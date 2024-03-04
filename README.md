@@ -18,7 +18,7 @@ app.py: Contains the Streamlit frontend for the recommendation system.
 
 notebook.ipynb: Jupyter Notebook with step-by-step documentation, providing insights into the development process.
 
-datasets/: Folder containing links to download large datasets used in the project.
+datasets: These need to be accessed via this link https://mengtingwan.github.io/data/goodreads.html#datasets
 
 presentation.pptx: PowerPoint presentation providing a user-friendly overview of the project journey.
 
